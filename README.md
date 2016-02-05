@@ -20,8 +20,9 @@ _Details of each schedule and task will be added later._
 Resource
 --------
 
-1. __[BitTiger Project: AppStore - Website]__ https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e
-2. __[BitTiger Project: Airbnb - Machine Learning of prediction]__ https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e
+1. [BitTiger Project: AppStore - Website](https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e)
+2. [BitTiger Project: Airbnb - Machine Learning of prediction](https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e)
+
 Language & Framework
 --------------------
 
