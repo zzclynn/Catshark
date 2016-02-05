@@ -28,6 +28,7 @@ Language & Framework
 
 + Java, Javascript, R
 + [Spark Web Framework](http://sparkjava.com/)
++ [Handlebars](https://github.com/jknack/handlebars.java)
 
 Development Guildlines
 ----------------------
