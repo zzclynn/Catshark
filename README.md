@@ -20,8 +20,7 @@ _Details of each schedule and task will be added later._
 Resource
 --------
 
-1. [BitTiger Project: AppStore - Website](https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e)
-2. [BitTiger Project: Airbnb - Machine Learning of prediction](https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e)
+1. [BitTiger Project: Airbnb - Machine Learning of prediction](https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e)
 
 Language & Framework
 --------------------
@@ -30,10 +29,10 @@ Language & Framework
 ### [Spark Web Framework](http://sparkjava.com/)
 Spark is a simple and lightweight Java web framework build for rapid development. In this project, we will use Spark web framework to build our Restful backend service. For [tutorials](https://sparktutorials.github.io/) and [sample code](https://github.com/perwendel/spark/blob/master/README.md#examples), for [begineers](https://sparktutorials.github.io/2015/08/04/spark-video-tutorials.html)
 ### [Handlebars](https://github.com/jknack/handlebars.java)
-Handlebars is a powerful javascript template engine help you build front end web view without pain. In this project, we will use Handlebars.java which is a Java port of handlebars. The Spark template handlebars sample code we can found [here](https://github.com/perwendel/spark-template-engines/tree/master/spark-template-handlebars) 
+Handlebars is a powerful javascript template engine help you build front end web view without pain. In this project, we will use Handlebars.java which is a Java port of handlebars. The Spark template handlebars sample code you can found [here](https://github.com/perwendel/spark-template-engines/tree/master/spark-template-handlebars) 
 
 ### [Lucene](https://lucene.apache.org/)
-Lucene is an open-source Java full-text search library which makes it easy to add search functionality to an application or website. In this project, we will use Lucene to build our search index based on Home Depot datasets. Some [tutorials](http://www.lucenetutorial.com/) for beginners. 
+Lucene is an open-source Java full-text search library which makes it easy to add search functionality to an application or website. In this project, we will use Lucene to build our search index based on Home Depot datasets. Some [tutorials](http://www.lucenetutorial.com/) for beginners can be found [here](http://www.lucenetutorial.com/). 
 
 
 Development Guildlines
