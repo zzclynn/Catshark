@@ -26,9 +26,15 @@ Resource
 Language & Framework
 --------------------
 
-+ Java, Javascript, R
-+ [Spark Web Framework](http://sparkjava.com/)
-+ [Handlebars](https://github.com/jknack/handlebars.java)
+### Java, Javascript, R
+### [Spark Web Framework](http://sparkjava.com/)
+Spark is a simple and lightweight Java web framework build for rapid development. In this project, we will use Spark web framework to build our Restful backend service. For [tutorials](https://sparktutorials.github.io/) and [sample code](https://github.com/perwendel/spark/blob/master/README.md#examples), for [begineers](https://sparktutorials.github.io/2015/08/04/spark-video-tutorials.html)
+### [Handlebars](https://github.com/jknack/handlebars.java)
+Handlebars is a powerful javascript template engine help you build front end web view without pain. In this project, we will use Handlebars.java which is a Java port of handlebars. The Spark template handlebars sample code we can found [here](https://github.com/perwendel/spark-template-engines/tree/master/spark-template-handlebars) 
+
+### [Lucene](https://lucene.apache.org/)
+Lucene is an open-source Java full-text search library which makes it easy to add search functionality to an application or website. In this project, we will use Lucene to build our search index based on Home Depot datasets. Some [tutorials](http://www.lucenetutorial.com/) for beginners. 
+
 
 Development Guildlines
 ----------------------
