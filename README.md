@@ -3,7 +3,7 @@
 Description
 -----------
 
-Inspired by [Project Airbnb - Machine Learning of prediction](https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e), Catshark aims to develop a platform to predict the relevance of search results from Home Depot.
+Inspired by [Project Airbnb - Machine Learning of prediction](https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e), Catshark aims to help Homedepot to refine their search alogrithm using using a relevance rater. This tool, which based on machine learning technique, can predict a relevance score for a given pair of query term and search result in a simple click.
 
 
 Plan
@@ -34,6 +34,8 @@ Handlebars is a powerful javascript template engine help you build front end web
 ### [Lucene](https://lucene.apache.org/)
 Lucene is an open-source Java full-text search library which makes it easy to add search functionality to an application or website. In this project, we will use Lucene to build our search index based on Home Depot datasets. Some [tutorials](http://www.lucenetutorial.com/) for beginners can be found [here](http://www.lucenetutorial.com/). 
 
+### [Python](https://www.python.org/)
+We choose python as primary language for machine learning section. Python is a concise scripting language rich with various thrid-party libraries, including scientific computing stack: Numpy, Pandas, etc, and machine learning packages: scikit-learn, nltk.We plan to use Random forest, Xgboost, Bagging Regressor to train our model, and produce final results with ensembling. 
 
 Development Guildlines
 ----------------------
