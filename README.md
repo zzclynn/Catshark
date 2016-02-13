@@ -27,7 +27,8 @@ Language & Framework
 
 ### Python, Javascript, Flask
 ### [Flask Web Framework](http://flask.pocoo.org/)
-Flask is a simple and lightweight Python web framework build for rapid development. In this project, we will use Flask web framework to build our Restful backend service. For [tutorials](https://sparktutorials.github.io/) and [sample code](https://github.com/perwendel/spark/blob/master/README.md#examples), for [begineers](https://sparktutorials.github.io/2015/08/04/spark-video-tutorials.html)
+Flask is a simple and lightweight Python web framework build for rapid development. In this project, we will use Flask web framework to build our Restful backend service. For [tutorials](http://flask.pocoo.org/docs/0.10/tutorial/) and [sample code](https://github.com/mitsuhiko/flask/tree/master/examples/flaskr/)
+
 ### [Handlebars](https://github.com/jknack/handlebars.java)
 Handlebars is a powerful javascript template engine help you build front end web view without pain. In this project, we will use Handlebars.java which is a Java port of handlebars. The Spark template handlebars sample code you can found [here](https://github.com/perwendel/spark-template-engines/tree/master/spark-template-handlebars) 
 
