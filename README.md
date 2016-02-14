@@ -29,9 +29,6 @@ Language & Framework
 ### [Flask Web Framework](http://flask.pocoo.org/)
 Flask is a simple and lightweight Python web framework build for rapid development. In this project, we will use Flask web framework to build our Restful backend service. For [tutorials](http://flask.pocoo.org/docs/0.10/tutorial/) and [sample code](https://github.com/mitsuhiko/flask/tree/master/examples/flaskr/)
 
-### [Handlebars](https://github.com/jknack/handlebars.java)
-Handlebars is a powerful javascript template engine help you build front end web view without pain. In this project, we will use Handlebars.java which is a Java port of handlebars. The Spark template handlebars sample code you can found [here](https://github.com/perwendel/spark-template-engines/tree/master/spark-template-handlebars) 
-
 ### [PyLucene](https://lucene.apache.org/)
 Lucene is an open-source full-text search library which makes it easy to add search functionality to an application or website. In this project, we will use Lucene to build our search index based on Home Depot datasets. Some [tutorials](http://www.lucenetutorial.com/) for beginners can be found [here](http://www.lucenetutorial.com/). 
 
