@@ -3,7 +3,7 @@
 Description
 -----------
 
-Inspired by [Project Airbnb - Machine Learning of prediction](https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e), Catshark aims to develop a platform to predict the relevance of search results from Home Depot.
+Inspired by [Project Airbnb - Machine Learning of prediction](https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e), Catshark aims to help Homedepot to refine their search alogrithm using using a relevance rater. This tool, which based on machine learning technique, can predict a relevance score for a given pair of query term and search result in a simple click.
 
 
 Plan
@@ -25,15 +25,15 @@ Resource
 Language & Framework
 --------------------
 
-### Java, Javascript, R
-### [Spark Web Framework](http://sparkjava.com/)
-Spark is a simple and lightweight Java web framework build for rapid development. In this project, we will use Spark web framework to build our Restful backend service. For [tutorials](https://sparktutorials.github.io/) and [sample code](https://github.com/perwendel/spark/blob/master/README.md#examples), for [begineers](https://sparktutorials.github.io/2015/08/04/spark-video-tutorials.html)
-### [Handlebars](https://github.com/jknack/handlebars.java)
-Handlebars is a powerful javascript template engine help you build front end web view without pain. In this project, we will use Handlebars.java which is a Java port of handlebars. The Spark template handlebars sample code you can found [here](https://github.com/perwendel/spark-template-engines/tree/master/spark-template-handlebars) 
+### Python, Javascript, Flask
+### [Flask Web Framework](http://flask.pocoo.org/)
+Flask is a simple and lightweight Python web framework build for rapid development. In this project, we will use Flask web framework to build our Restful backend service. For [tutorials](http://flask.pocoo.org/docs/0.10/tutorial/) and [sample code](https://github.com/mitsuhiko/flask/tree/master/examples/flaskr/)
 
-### [Lucene](https://lucene.apache.org/)
-Lucene is an open-source Java full-text search library which makes it easy to add search functionality to an application or website. In this project, we will use Lucene to build our search index based on Home Depot datasets. Some [tutorials](http://www.lucenetutorial.com/) for beginners can be found [here](http://www.lucenetutorial.com/). 
+### [PyLucene](https://lucene.apache.org/)
+Lucene is an open-source full-text search library which makes it easy to add search functionality to an application or website. In this project, we will use Lucene to build our search index based on Home Depot datasets. Some [tutorials](http://www.lucenetutorial.com/) for beginners can be found [here](http://www.lucenetutorial.com/). 
 
+### [Python](https://www.python.org/)
+We choose python as primary language for machine learning section. Python is a concise scripting language rich with various thrid-party libraries, including scientific computing stack: Numpy, Pandas, etc, and machine learning packages: scikit-learn, nltk.We plan to use Random forest, Xgboost, Bagging Regressor to train our model, and produce final results with ensembling. 
 
 Development Guildlines
 ----------------------
